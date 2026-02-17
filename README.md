@@ -55,10 +55,4 @@ Through this hands-on experience, you'll learn:
 - **Evaluation**: Assess application quality systematically
 - **Agents**: Build autonomous systems that reason and use tools
 
-## 📄 License
-
-Educational repository for learning purposes. Feel free to use for your own learning journey.
-
----
-
 **Built with LangChain 🦜⛓️ | Learning by Doing 🚀**
